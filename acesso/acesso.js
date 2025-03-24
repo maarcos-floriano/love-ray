@@ -33,6 +33,6 @@ function send() {
 
 const date = new Date();
 
-if (date.getDay !== 23) {
-    location.href = "404/404.html";
-}
+// if (date.getDay !== 23) {
+//     location.href = "404/404.html";
+// }
